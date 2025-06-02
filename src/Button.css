@@ -1,0 +1,11 @@
+button.simon-button {
+  background-color: #000;
+  border: none;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+div.simon-button-container {
+  margin: 10px;
+}
